@@ -18,11 +18,10 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Dedication][contributors-shield]][ai-codelabs,com]
-[![For][forks-shield]][forks-url]
-[![Star][stars-shield]][stars-url]
+
+
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -52,16 +51,16 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+
   <summary>About</summary>
   
 
 
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ABOUT  -->
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+
 
  Hi, I’m @teddythelion I am proficient in c++, Python,Yet Professionally I use Javascript(React , Next.js, Typescript, Jsx, React-Native,Vite, Svelt, Refne, Node, NPM ,NVM,Yarn ) I integrate AI in everythng where its practical I have worked alot with PHP, SQL,MySQL, WordPress andI am a life long student I am passionate about all things algorithmic. My strong suit is logic, really mathematics and solving problems-- the ones people tend to give up on. I love difficult tasks because I have the tenacity to never quit until I succeed.
 
@@ -70,7 +69,7 @@
 
 
 
-### Built With
+
 
 👀 I’m interested in helping as many people as possible with creating elegant solutions that make a positive impact on the planet. No judgments, no negative thinking, only gratitude, compassion, kindness, positivity, and what I do the best, hard work.
 
@@ -83,9 +82,9 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
- [![Node][Node.com]][Node-url]
-  [![Refine][Refine.com]][Refine-url]
-   [![NoSQL][NoSql.com]][NoSql-url]
+* [![Node][Node.com]][Node-url]
+*  [![Refine][Refine.com]][Refine-url]
+  * [![NoSQL][NoSql.com]][NoSql-url]
 <p align="right">(<a href="#readme-top">up</a>)</p>
 
 
