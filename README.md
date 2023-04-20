@@ -22,7 +22,7 @@
 
 [![Issues][issues-shield]][issues-url]
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][[linkedin-url](https://www.linkedin.com/in/teddy-deleon-24908126b/)]
 
 
 
