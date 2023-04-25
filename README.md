@@ -94,7 +94,7 @@
 
 
 T💞️ I’m looking to collaborate with anyone with a passion for programming or progress. They must have a positive motivation for making the world better for everyone.
-📫 How to reach me tdeleon@ai-codelabs.com or 952-497-7005
+📫 How to reach me tdeleon@ai-codelabs.com or 951-497-7005
 ### Prerequisites
 
 See the [open issues](https://github.com/teddythelion/teddythelion/teddythelion/issues) for a full list of proposed features (and known issues).
