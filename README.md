@@ -82,9 +82,7 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* [![Node][Node.com]][Node-url]
-*  [![Refine][Refine.com]][Refine-url]
-  * [![NoSQL][NoSql.com]][NoSql-url]
+
 <p align="right">(<a href="#readme-top">up</a>)</p>
 
 
