@@ -33,7 +33,7 @@
    
   </a>
 
-  <h3 align="center">Ai Codelabs All things Code</h3>
+  <h3 align="center">Digital Lion Media LLC</h3>
 
   <p align="center">
    Teddy Deleon, Programmer, Student, Problem Solver,DAD
